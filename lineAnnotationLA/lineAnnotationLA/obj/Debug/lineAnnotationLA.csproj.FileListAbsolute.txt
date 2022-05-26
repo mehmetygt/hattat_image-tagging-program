@@ -1,0 +1,10 @@
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\bin\Debug\lineAnnotationLA.exe.config
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\bin\Debug\lineAnnotationLA.exe
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\bin\Debug\lineAnnotationLA.pdb
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.csprojAssemblyReference.cache
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.Form1.resources
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.Properties.Resources.resources
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.csproj.GenerateResource.cache
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.csproj.CoreCompileInputs.cache
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.exe
+C:\Users\ckadir\source\repos\lineAnnotationLA\lineAnnotationLA\obj\Debug\lineAnnotationLA.pdb
